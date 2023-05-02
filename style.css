@@ -1,0 +1,11 @@
+main {
+    display: flex;
+    align-items: center;
+}
+.text {
+}
+#time{
+    padding: 5px;
+    /* width: 100px; */
+    transform: rotate(90°);
+}
